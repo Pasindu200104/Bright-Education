@@ -1,0 +1,108 @@
+.BG{
+    background-image: url("resources/book.jpg");
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.BG2{
+    background-image: url("resources/school.jpg");
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.adminbg{
+    background-image: url("resources/admin/geeks.jpg");
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.adminbg2{
+    background-image: url("resources/admin/pexels2.jpg");
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.BGacedamic{
+    background-image: url("resources/admin/pexels-andrea.jpg");
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.bginvite{
+    background-image: url("resources/admin/pexels-tom.jpg");
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+@font-face {
+    font-family: "Tech";
+    src: url("fonts/TechnoRace-Italic.otf");
+}
+
+@font-face {
+    font-family: "Rock";
+    src: url("fonts/Rocky\ Display.otf");
+}
+
+*{
+    font-family: "Rock";
+    font-size: 20px;
+}
+
+.A{
+    font-family: "Tech";
+    font-size: 70px;
+}
+.A1{
+    font-family: "Tech";
+    /* font-size: 70px; */
+}
+
+.F{
+    font-size: 70px;
+}
+
+.BTN{
+    border-radius: 20px;
+}
+
+
+.t1{
+    color:#6c757d ;
+}
+
+.t1:hover{
+   color: #69f15d;
+}
+
+.r1:hover{
+    background-color: #ff6a6a;
+}
+
+.card2{
+    border-color: green;
+    border-width: 2px;
+}
+.subbox:hover{
+    border-color: #ff6a6a;
+}
+
+.bor2{
+    border-color: #1eff00;
+    border-width: 2px;
+}
+
+.bor2:hover{
+    border-color: rgb(0, 26, 255);
+}
